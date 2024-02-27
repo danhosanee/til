@@ -1,14 +1,15 @@
 # TIL
 
 > Today I Learned
-
-
-My Today I Learned snippets.
 ---
 
 ### cloudformation
 
 - [Cloudformation](cloudformation/cloudformation.md)
+
+### deltalake
+
+- [Replacewhere](deltalake/replaceWhere.md)
 
 ### python
 
