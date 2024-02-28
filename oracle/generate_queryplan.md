@@ -14,5 +14,3 @@ and     d.dname in ('Department Name 1','Department Name 2');
 SELECT *
 FROM table(DBMS_XPLAN.DISPLAY (FORMAT=>'ALL +OUTLINE'));
 ```
-
-![alt text](image.png)
