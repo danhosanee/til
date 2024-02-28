@@ -13,7 +13,6 @@
 
 ### oracle
 
-- [Image](oracle/image.png)
 - [Generate_queryplan](oracle/generate_queryplan.md)
 
 ### python
