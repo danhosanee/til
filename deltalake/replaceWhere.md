@@ -17,6 +17,6 @@ Example:
         .format("delta")
         .mode("overwrite")
         .option("replaceWhere", "process_date = '2024-02-27'")
-        .save('/tmp/delta/events')
+        .save("/tmp/delta/events")
 )
 ```
