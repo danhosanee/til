@@ -1,5 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Today I learned
+publish: "true"
+date: 2025-01-01
 ---
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Garden of learnings.
